@@ -10,7 +10,9 @@ mkdir Hello
 cd Hello
 vim Goodbye.txt
 ```
+
 [Twitter.com](https://twitter.com/).
+
 [README.txt](README.md).
 
 ![What the dog doing](https://c.tenor.com/iozuy0_sdygAAAAC/what-the-dog-doing-dog.gif)
